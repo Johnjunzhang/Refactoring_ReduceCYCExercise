@@ -1,0 +1,5 @@
+D:\Study\RefactorExercise\RefactorExercise\bin\Debug\RefactorExercise.dll
+D:\Study\RefactorExercise\RefactorExercise\bin\Debug\RefactorExercise.pdb
+D:\Study\RefactorExercise\RefactorExercise\obj\Debug\RefactorExercise.csprojResolveAssemblyReference.cache
+D:\Study\RefactorExercise\RefactorExercise\obj\Debug\RefactorExercise.dll
+D:\Study\RefactorExercise\RefactorExercise\obj\Debug\RefactorExercise.pdb
